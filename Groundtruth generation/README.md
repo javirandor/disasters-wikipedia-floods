@@ -1,5 +1,10 @@
-# Uneven Coverage of Natural Disasters in Wikipedia: the Case of Floods
+# Groundtruth Generation
 
-This repo contains the code used for the paper entitled "Uneven Coverage of Natural Disasters in Wikipedia: the Case of Floods", which can be found at: [link when published]
+In this folder you will find the notebooks used to extract the groundtruth information from each of the 4 sources considered:
 
-⚠ Site in construction
+* Floodlist
+* Dartmouth Flood Observatory (DFO)
+* EM-DAT
+* Copernicus Emergency Management Service (EMS)
+
+Also, it is available the code used to merge these events according to the methodology presented in the paper.
